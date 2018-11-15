@@ -1,0 +1,21 @@
+body {
+	font-size: 14px;
+}
+.nav-main {
+	text-transform: uppercase;
+	color: #fff;
+	padding: 10px 15px;
+	border-radius: 15px;
+}
+.nav-main:hover {
+	background-color: #76c38f;
+	color: #fff;
+}
+.slider-title {
+	font-size: 4.1rem;
+	color: #fff;
+}
+.service-title {
+	font-size: 2.1rem;
+	color: #333333;
+}
